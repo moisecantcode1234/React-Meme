@@ -1,0 +1,11 @@
+.headerContainer
+{
+    text-align: center;
+    font-size:xx-large;
+    
+    border: 0px ;
+    border-bottom: 8px solid;
+    color: blue;
+    background-color: coral;
+    padding: 6px;
+}
