@@ -1,0 +1,45 @@
+.MemeElement_trash-button
+{
+    float: right;
+    width: 30px;
+    height: 30px;
+    margin-top: 5PX;
+    margin-right: 5px;
+}
+.MemeElement_title
+{
+    display: inline-block;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    font-size:x-large;
+    color: blue;
+    
+}
+.MemeElement_picture
+{
+    display: block;
+    width: 80%;
+    margin-left:10%;
+}
+.MemeElement
+{
+    background-color: coral;
+    width: 70%;
+    margin-bottom: 20px;
+}
+.MemeElement_like-button
+{
+    margin-left: 5px;
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.MemeElement_dislike-button
+{
+    margin-left: 5px;
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
